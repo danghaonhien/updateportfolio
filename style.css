@@ -28,6 +28,7 @@
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
     text-align: center;
+  
 }
 .text-shadow-drop-center {
 	-webkit-animation: text-shadow-drop-center 0.6s both;
